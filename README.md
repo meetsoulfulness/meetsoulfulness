@@ -1,17 +1,15 @@
 <h1 align="center">Hi there, I'm Sandeep Singh!👋</h1>
 <h3 align="center">A Person who fixed a problem that you don't know you have, in a way you don't understand.</h3>
 
-- 🔭 I’m currently working on **improving my skills**
+- 🔭 I’m currently working on **improving my skills.**
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning **full stack web development.**
 
-- 🤝 I’m looking to collaborate on **open source projects**
+- 🤝 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 You can check out my postfolio, **coming soon :)**
+- 💬 Ask me about **HTML, CSS, and JavaScript.**
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
-
-- 📫 How to reach me **heysoulfulness@gmail.com**
+- 📫 How to reach me **heysoulfulness@gmail.com.**
 
 - ⚡ Fun fact **I love chai more than coffee.**
 
